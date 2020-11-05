@@ -12,7 +12,7 @@ list_of_lines = []
 list_of_turtles = []
 
 collisions_detected = 0
-
+#haha poop funny little sad man
 end_game = False
 
 def shoot (s_turtle):
